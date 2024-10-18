@@ -1,2 +1,2 @@
 # My_Test-PR
-repo for practical on pull requests 
+This is a test repo for the practicals.
